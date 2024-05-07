@@ -8,10 +8,10 @@ Welcome to the project! This guide will help you get started with setting up the
 Follow these steps to begin:
 
 1. **Clone the repository:**
+
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/smeetinc/hire.git>
    ```
-````
 
 2. **Create a new branch:**
 
@@ -66,3 +66,4 @@ Happy coding!
 ```
 
 ```
+````
